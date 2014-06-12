@@ -14,13 +14,12 @@ var taskMgr: Task_Manager = Task_Manager()
 struct task{
     var name = "Un-Named"
     var desc = "Un-Described"
-    // bool completed = false
 }
 
 
 class Task_Manager: NSObject {
     var tasks = task[]()
-    //empty array
+    //empty array to push our tasks into
     
     func addTask(name: String, desc: String){
         tasks.append(task(name: name, desc: desc))

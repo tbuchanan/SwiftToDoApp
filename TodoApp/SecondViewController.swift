@@ -2,8 +2,8 @@
 //  SecondViewController.swift
 //  TodoApp
 //
-//  Created by Rahul Khanna on 6/11/14.
-//  Copyright (c) 2014 Rahul Khanna. All rights reserved.
+//  Created by Tyler Buchanan on 6/11/14.
+//  Copyright (c) 2014 Tyler Buchanan. All rights reserved.
 //
 
 import UIKit
